@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JakePrograms
 - 👀 I’m interested in Video Games, Programming, Learning new things.
-- 🌱 I’m currently learning Python and JavaScript.
+- 🌱 I’m currently learning Python, Android Development, Javascript, HTML, and CSS.
 - 📫 How to reach me: jacobmattekubecka4@gmail.com 
 
 <!---
